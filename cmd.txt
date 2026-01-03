@@ -1,0 +1,2 @@
+# 스크립트의 전체 경로를 사용하여 실행
+powershell -ExecutionPolicy Bypass -File "C:\Users\jojeon\HeroesToolChest\git_upload_code_date260103\upload_hots_data.ps1"
