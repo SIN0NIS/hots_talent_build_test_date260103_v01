@@ -2,14 +2,22 @@
 <html lang="ko">
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <title>히오스 빌드 메이커 - 통합 페이지</title>
     <style>
-        body, html { margin: 0; padding: 0; height: 100%; overflow: hidden; }
-        iframe { width: 100%; height: 100%; border: none; }
+        /* 화면 전체를 채우도록 설정 */
+        body, html { margin: 0; padding: 0; height: 100%; width: 100%; overflow: hidden; background: #0b0b0d; }
+        
+        /* iframe이 모바일 뷰포트를 그대로 상속받도록 설정 */
+        iframe { 
+            width: 100%; 
+            height: 100%; 
+            border: none; 
+            display: block;
+        }
     </style>
 </head>
 <body>
     <iframe src="https://sin0nis.github.io/hots_talent_build_test_date260103_v01/index_date260103_v08.html"></iframe>
 </body>
-
 </html>
