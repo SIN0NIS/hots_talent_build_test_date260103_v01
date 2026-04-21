@@ -1,0 +1,1194 @@
+{
+  "AbathurChest": {
+    "hyperlinkId": "AbathurChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "AlarakChest": {
+    "name": "알라라크 상자",
+    "hyperlinkId": "AlarakChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "AlexstraszaChest": {
+    "name": "알렉스트라자 상자",
+    "hyperlinkId": "AlexstraszaChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "AmazonChest": {
+    "name": "카시아 상자",
+    "hyperlinkId": "AmazonChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "AnaChest": {
+    "name": "아나 상자",
+    "hyperlinkId": "AnaChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "AnduinChest": {
+    "name": "안두인 상자",
+    "hyperlinkId": "AnduinChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "AnubarakChest": {
+    "name": "아눕아락 상자",
+    "hyperlinkId": "AnubarakChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "ArtanisChest": {
+    "name": "아르타니스 상자",
+    "hyperlinkId": "ArtanisChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "ArthasChest": {
+    "name": "아서스 상자",
+    "hyperlinkId": "ArthasChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "AurielChest": {
+    "name": "아우리엘 상자",
+    "hyperlinkId": "AurielChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "AutumnBaseProgressionChest": {
+    "name": "할로윈 축제 상자",
+    "hyperlinkId": "AutumnBaseProgressionChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "HalloweenLootChestCommon",
+    "event": "Halloween"
+  },
+  "AutumnEpicProgressionChest": {
+    "name": "특급 할로윈 축제 상자",
+    "hyperlinkId": "AutumnEpicProgressionChest",
+    "rarity": "Epic",
+    "maxRerolls": 3,
+    "typeDescription": "HalloweenLootChestEpic",
+    "event": "Halloween"
+  },
+  "AutumnRareProgressionChest": {
+    "name": "희귀 할로윈 축제 상자",
+    "hyperlinkId": "AutumnRareProgressionChest",
+    "rarity": "Rare",
+    "maxRerolls": 3,
+    "typeDescription": "HalloweenLootChestRare",
+    "event": "Halloween"
+  },
+  "AzmodanChest": {
+    "name": "아즈모단 상자",
+    "hyperlinkId": "AzmodanChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "BarbarianChest": {
+    "name": "소냐 상자",
+    "hyperlinkId": "BarbarianChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "BattlenetGiftChest": {
+    "name": "선물 상자",
+    "hyperlinkId": "BattlenetGiftChest",
+    "rarity": "Common",
+    "maxRerolls": 0,
+    "typeDescription": "LootChestCommon"
+  },
+  "BoostPromoLegendaryChest": {
+    "name": "전설 부스트 붉은 카지노 절도사건 상자",
+    "hyperlinkId": "BoostPromoLegendaryChest",
+    "rarity": "Legendary",
+    "maxRerolls": 3,
+    "typeDescription": "BoostPromoLegendaryChest",
+    "event": "Mobster19"
+  },
+  "ButcherChest": {
+    "name": "도살자 상자",
+    "hyperlinkId": "ButcherChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "ChenChest": {
+    "name": "첸 상자",
+    "hyperlinkId": "ChenChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "ChoChest": {
+    "name": "초 상자",
+    "hyperlinkId": "ChoChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "ChromieChest": {
+    "name": "크로미 상자",
+    "hyperlinkId": "ChromieChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "CommonProgChest": {
+    "name": "전리품 상자",
+    "hyperlinkId": "CommonProgChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "CrusaderChest": {
+    "name": "요한나 상자",
+    "hyperlinkId": "CrusaderChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "DeathwingChest": {
+    "name": "데스윙 상자",
+    "hyperlinkId": "DeathwingChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "DeckardChest": {
+    "name": "데커드 케인 상자",
+    "hyperlinkId": "DeckardChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "DehakaChest": {
+    "name": "데하카 상자",
+    "hyperlinkId": "DehakaChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "DemonHunterChest": {
+    "name": "발라 상자",
+    "hyperlinkId": "DemonHunterChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "DiabloChest": {
+    "name": "디아블로 상자",
+    "hyperlinkId": "DiabloChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "DryadChest": {
+    "name": "루나라 상자",
+    "hyperlinkId": "DryadChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "DVaChest": {
+    "name": "D.Va 전리품 상자",
+    "hyperlinkId": "DVaChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "EpicProgChest": {
+    "name": "특급 상자",
+    "hyperlinkId": "EpicProgChest",
+    "rarity": "Epic",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestEpic",
+    "description": "최소 1개의 특급 이상 아이템이 포함된 전리품 상자입니다."
+  },
+  "ErrorChest": {
+    "name": "오류",
+    "hyperlinkId": "ErrorChest",
+    "rarity": "Common",
+    "maxRerolls": 0,
+    "typeDescription": "LootChestCommon"
+  },
+  "FaerieDragonChest": {
+    "name": "빛나래 상자",
+    "hyperlinkId": "FaerieDragonChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "FalstadChest": {
+    "name": "폴스타트 상자",
+    "hyperlinkId": "FalstadChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "FenixChest": {
+    "name": "피닉스 상자",
+    "hyperlinkId": "FenixChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "FirebatChest": {
+    "name": "블레이즈 상자",
+    "hyperlinkId": "FirebatChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "GallChest": {
+    "name": "갈 상자",
+    "hyperlinkId": "GallChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "GarroshChest": {
+    "name": "가로쉬 상자",
+    "hyperlinkId": "GarroshChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "GenjiChest": {
+    "name": "겐지 상자",
+    "hyperlinkId": "GenjiChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "GreymaneChest": {
+    "name": "그레이메인 상자",
+    "hyperlinkId": "GreymaneChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "GuldanChest": {
+    "name": "굴단 상자",
+    "hyperlinkId": "GuldanChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "HanzoChest": {
+    "name": "한조 상자",
+    "hyperlinkId": "HanzoChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "HoggerChest": {
+    "name": "들창코 상자",
+    "hyperlinkId": "HoggerChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "IllidanChest": {
+    "name": "일리단 상자",
+    "hyperlinkId": "IllidanChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "ImperiusChest": {
+    "name": "임페리우스 상자",
+    "hyperlinkId": "ImperiusChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "JainaChest": {
+    "name": "제이나 상자",
+    "hyperlinkId": "JainaChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "JunkratChest": {
+    "name": "정크랫 상자",
+    "hyperlinkId": "JunkratChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "KaelthasChest": {
+    "name": "캘타스 상자",
+    "hyperlinkId": "KaelthasChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "KelThuzadChest": {
+    "name": "켈투자드 상자",
+    "hyperlinkId": "KelThuzadChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "KerriganChest": {
+    "name": "케리건 상자",
+    "hyperlinkId": "KerriganChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "L90ETCChest": {
+    "name": "정예 타우렌 족장 상자",
+    "hyperlinkId": "L90ETCChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "LegendaryChest": {
+    "name": "전설 상자",
+    "hyperlinkId": "LegendaryChest",
+    "rarity": "Legendary",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "LeoricChest": {
+    "name": "레오릭 상자",
+    "hyperlinkId": "LeoricChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "LiLiChest": {
+    "name": "리 리 상자",
+    "hyperlinkId": "LiLiChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "LootChestChristmas2018Common": {
+    "name": "장난감 상자",
+    "hyperlinkId": "LootChestChristmas2018Common",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestChristmas2018Common",
+    "event": "Toys18"
+  },
+  "LootChestChristmas2018Epic": {
+    "name": "특급 장난감 상자",
+    "hyperlinkId": "LootChestChristmas2018Epic",
+    "rarity": "Epic",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestChristmas2018Epic",
+    "event": "Toys18"
+  },
+  "LootChestChristmas2018Rare": {
+    "name": "희귀 장난감 상자",
+    "hyperlinkId": "LootChestChristmas2018Rare",
+    "rarity": "Rare",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestChristmas2018Rare",
+    "event": "Toys18"
+  },
+  "LootChestChristmas2019Common": {
+    "name": "새로운 장난감 상자",
+    "hyperlinkId": "LootChestChristmas2019Common",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestChristmas2018Common",
+    "event": "Toys18"
+  },
+  "LootChestChristmas2019Epic": {
+    "name": "특급 새로운 장난감 상자",
+    "hyperlinkId": "LootChestChristmas2019Epic",
+    "rarity": "Epic",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestChristmas2019Epic",
+    "event": "Toys18"
+  },
+  "LootChestChristmas2019Rare": {
+    "name": "희귀 새로운 장난감 상자",
+    "hyperlinkId": "LootChestChristmas2019Rare",
+    "rarity": "Rare",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestChristmas2019Rare",
+    "event": "Toys18"
+  },
+  "LootChestChristmas2020Common": {
+    "name": "보물 상자",
+    "hyperlinkId": "LootChestChristmas2020Common",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestChristmas2020Common"
+  },
+  "LootChestChristmas2020Epic": {
+    "name": "특급 보물 상자",
+    "hyperlinkId": "LootChestChristmas2020Epic",
+    "rarity": "Epic",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestChristmas2020Epic"
+  },
+  "LootChestChristmas2020Rare": {
+    "name": "희귀 보물 상자",
+    "hyperlinkId": "LootChestChristmas2020Rare",
+    "rarity": "Rare",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestChristmas2020Rare"
+  },
+  "LootChestHalloween2018": {
+    "name": "왕의 산마루의 몰락 상자",
+    "hyperlinkId": "LootChestHalloween2018",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestHalloween2018",
+    "event": "Halloween18"
+  },
+  "LootChestHalloween2018Epic": {
+    "name": "왕의 산마루의 몰락 특급 상자",
+    "hyperlinkId": "LootChestHalloween2018Epic",
+    "rarity": "Epic",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestHalloween2018Epic",
+    "event": "Halloween18"
+  },
+  "LootChestHalloween2018Rare": {
+    "name": "왕의 산마루의 몰락 희귀 상자",
+    "hyperlinkId": "LootChestHalloween2018Rare",
+    "rarity": "Rare",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestHalloween2018Rare",
+    "event": "Halloween18"
+  },
+  "LootChestHalloween2020Common": {
+    "name": "크래프트 격돌 상자",
+    "hyperlinkId": "LootChestHalloween2020Common",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestHalloween2020Common"
+  },
+  "LootChestHalloween2020Epic": {
+    "name": "특급 크래프트 격돌 상자",
+    "hyperlinkId": "LootChestHalloween2020Epic",
+    "rarity": "Epic",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestHalloween2020Epic"
+  },
+  "LootChestHalloween2020Rare": {
+    "name": "희귀 크래프트 격돌 상자",
+    "hyperlinkId": "LootChestHalloween2020Rare",
+    "rarity": "Rare",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestHalloween2020Rare"
+  },
+  "LootChestSpring2019Common": {
+    "name": "칼데움 복합도시 상자",
+    "hyperlinkId": "LootChestSpring2019Common",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestSpring2019Common",
+    "event": "Spring19"
+  },
+  "LootChestSpring2019Epic": {
+    "name": "특급 칼데움 복합도시 상자",
+    "hyperlinkId": "LootChestSpring2019Epic",
+    "rarity": "Epic",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestSpring2019Epic",
+    "event": "Spring19"
+  },
+  "LootChestSpring2019Rare": {
+    "name": "희귀 칼데움 복합도시 상자",
+    "hyperlinkId": "LootChestSpring2019Rare",
+    "rarity": "Rare",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestSpring2019Rare",
+    "event": "Spring19"
+  },
+  "LootChestSpring2020Common": {
+    "name": "시공의 어둠 상자",
+    "hyperlinkId": "LootChestSpring2020Common",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestSpring2020Common"
+  },
+  "LootChestSpring2020Epic": {
+    "name": "특급 시공의 어둠 상자",
+    "hyperlinkId": "LootChestSpring2020Epic",
+    "rarity": "Epic",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestSpring2020Epic"
+  },
+  "LootChestSpring2020Rare": {
+    "name": "희귀 시공의 어둠 상자",
+    "hyperlinkId": "LootChestSpring2020Rare",
+    "rarity": "Rare",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestSpring2020Rare"
+  },
+  "LootChestSummer2018Common": {
+    "name": "시공매니아 상자",
+    "hyperlinkId": "LootChestSummer2018Common",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestSummer2018Common",
+    "event": "Summer18"
+  },
+  "LootChestSummer2018Epic": {
+    "name": "특급 시공매니아 상자",
+    "hyperlinkId": "LootChestSummer2018Epic",
+    "rarity": "Epic",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestSummer2018Epic",
+    "event": "Summer18"
+  },
+  "LootChestSummer2018Rare": {
+    "name": "희귀 시공매니아 상자",
+    "hyperlinkId": "LootChestSummer2018Rare",
+    "rarity": "Rare",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestSummer2018Rare",
+    "event": "Summer18"
+  },
+  "LootChestSummer2019Common": {
+    "name": "메카 상자",
+    "hyperlinkId": "LootChestSummer2019Common",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestSummer2019Common",
+    "event": "Mecha19"
+  },
+  "LootChestSummer2019Epic": {
+    "name": "특급 메카 상자",
+    "hyperlinkId": "LootChestSummer2019Epic",
+    "rarity": "Epic",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestSummer2019Epic",
+    "event": "Mecha19"
+  },
+  "LootChestSummer2019Rare": {
+    "name": "희귀 메카 상자",
+    "hyperlinkId": "LootChestSummer2019Rare",
+    "rarity": "Rare",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestSummer2019Rare",
+    "event": "Mecha19"
+  },
+  "LootChestSummer2020Common": {
+    "name": "시공매니아 2 상자",
+    "hyperlinkId": "LootChestSummer2020Common",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestSummer2020Common"
+  },
+  "LootChestSummer2020Epic": {
+    "name": "특급 시공매니아 2 상자",
+    "hyperlinkId": "LootChestSummer2020Epic",
+    "rarity": "Epic",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestSummer2020Epic"
+  },
+  "LootChestSummer2020Rare": {
+    "name": "희귀 시공매니아 2 상자",
+    "hyperlinkId": "LootChestSummer2020Rare",
+    "rarity": "Rare",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestSummer2020Rare"
+  },
+  "LostVikingsChest": {
+    "name": "길 잃은 바이킹 상자",
+    "hyperlinkId": "LostVikingsChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "LucioChest": {
+    "name": "루시우 상자",
+    "hyperlinkId": "LucioChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "LunarBaseProgression": {
+    "name": "설날 상자",
+    "hyperlinkId": "LunarBaseProgression",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "Lunar18LootChestCommon",
+    "event": "Lunar18"
+  },
+  "LunarEpicProgressionChest": {
+    "name": "특급 설날 상자",
+    "hyperlinkId": "LunarEpicProgressionChest",
+    "rarity": "Epic",
+    "maxRerolls": 3,
+    "typeDescription": "Lunar18LootChestEpic",
+    "event": "Lunar18"
+  },
+  "LunarRareProgressionChest": {
+    "name": "희귀 설날 상자",
+    "hyperlinkId": "LunarRareProgressionChest",
+    "rarity": "Rare",
+    "maxRerolls": 3,
+    "typeDescription": "Lunar18LootChestRare",
+    "event": "Lunar18"
+  },
+  "MaievChest": {
+    "name": "마이에브 상자",
+    "hyperlinkId": "MaievChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "MalfurionChest": {
+    "name": "말퓨리온 상자",
+    "hyperlinkId": "MalfurionChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "MalGanisChest": {
+    "name": "말가니스 상자",
+    "hyperlinkId": "MalGanisChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "MalthaelChest": {
+    "name": "말티엘 상자",
+    "hyperlinkId": "MalthaelChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "MedicChest": {
+    "name": "모랄레스 중위 상자",
+    "hyperlinkId": "MedicChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "MedivhChest": {
+    "name": "메디브 상자",
+    "hyperlinkId": "MedivhChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "MeiChest": {
+    "name": "메이 상자",
+    "hyperlinkId": "MeiChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "MephistoChest": {
+    "name": "메피스토 상자",
+    "hyperlinkId": "MephistoChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "Mobster2019EpicLootChest": {
+    "name": "특급 붉은 카지노 절도사건 상자",
+    "hyperlinkId": "Mobster2019EpicLootChest",
+    "rarity": "Epic",
+    "maxRerolls": 3,
+    "typeDescription": "Mobster2019EpicLootChest",
+    "event": "Mobster19"
+  },
+  "Mobster2019LegendaryLootChest": {
+    "name": "전설 붉은 카지노 절도사건 상자",
+    "hyperlinkId": "Mobster2019LegendaryLootChest",
+    "rarity": "Legendary",
+    "maxRerolls": 5,
+    "typeDescription": "Mobster2019LegendaryLootChest",
+    "event": "Mobster19"
+  },
+  "Mobster2019LootChest": {
+    "name": "붉은 카지노 절도사건 상자",
+    "hyperlinkId": "Mobster2019LootChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "Mobster2019LootChest",
+    "event": "Mobster19"
+  },
+  "Mobster2019RareLootChest": {
+    "name": "희귀 붉은 카지노 절도사건 상자",
+    "hyperlinkId": "Mobster2019RareLootChest",
+    "rarity": "Rare",
+    "maxRerolls": 3,
+    "typeDescription": "Mobster2019RareLootChest",
+    "event": "Mobster19"
+  },
+  "MonkChest": {
+    "name": "카라짐 상자",
+    "hyperlinkId": "MonkChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "MuradinChest": {
+    "name": "무라딘 상자",
+    "hyperlinkId": "MuradinChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "MurkyChest": {
+    "name": "머키 상자",
+    "hyperlinkId": "MurkyChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "NecromancerChest": {
+    "name": "줄 상자",
+    "hyperlinkId": "NecromancerChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "NexusHunterChest": {
+    "name": "키히라 상자",
+    "hyperlinkId": "NexusHunterChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "NovaChest": {
+    "name": "노바 상자",
+    "hyperlinkId": "NovaChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "OrpheaChest": {
+    "name": "오르피아 상자",
+    "hyperlinkId": "OrpheaChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "ProbiusChest": {
+    "name": "프로비우스 상자",
+    "hyperlinkId": "ProbiusChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "RagnarosChest": {
+    "name": "라그나로스 상자",
+    "hyperlinkId": "RagnarosChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "RareProgChest": {
+    "name": "희귀 상자",
+    "hyperlinkId": "RareProgChest",
+    "rarity": "Rare",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestRare",
+    "description": "최소 1개의 희귀 이상 아이템이 포함된 전리품 상자입니다."
+  },
+  "RaynorChest": {
+    "name": "레이너 상자",
+    "hyperlinkId": "RaynorChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "RehgarChest": {
+    "name": "레가르 상자",
+    "hyperlinkId": "RehgarChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "RexxarChest": {
+    "name": "렉사르 상자",
+    "hyperlinkId": "RexxarChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "SamuroChest": {
+    "name": "사무로 상자",
+    "hyperlinkId": "SamuroChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "SgtHammerChest": {
+    "name": "해머 상사 상자",
+    "hyperlinkId": "SgtHammerChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "StitchesChest": {
+    "name": "누더기 상자",
+    "hyperlinkId": "StitchesChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "StukovChest": {
+    "name": "스투코프 상자",
+    "hyperlinkId": "StukovChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "SummerBaseProgressionChest": {
+    "name": "무더위 상자",
+    "hyperlinkId": "SummerBaseProgressionChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "SummerLootChestCommon",
+    "event": "Summer"
+  },
+  "SummerEpicProgressionChest": {
+    "name": "특급 무더위 상자",
+    "hyperlinkId": "SummerEpicProgressionChest",
+    "rarity": "Epic",
+    "maxRerolls": 3,
+    "typeDescription": "SummerLootChestEpic",
+    "event": "Summer"
+  },
+  "SummerRareProgressionChest": {
+    "name": "희귀 무더위 상자",
+    "hyperlinkId": "SummerRareProgressionChest",
+    "rarity": "Rare",
+    "maxRerolls": 3,
+    "typeDescription": "SummerLootChestRare",
+    "event": "Summer"
+  },
+  "SylvanasChest": {
+    "name": "실바나스 상자",
+    "hyperlinkId": "SylvanasChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "TassadarChest": {
+    "name": "태사다르 상자",
+    "hyperlinkId": "TassadarChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "TEST1RewardChest": {
+    "name": "[TEST] 1 Reward",
+    "hyperlinkId": "TEST1RewardChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "TEST2RewardChest": {
+    "name": "[TEST] 2 Rewards",
+    "hyperlinkId": "TEST2RewardChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "TEST3RewardChest": {
+    "name": "[TEST] 3 Rewards",
+    "hyperlinkId": "TEST3RewardChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "TEST4RewardChest": {
+    "name": "[TEST] 4 Rewards",
+    "hyperlinkId": "TEST4RewardChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "TEST5RewardChest": {
+    "name": "[TEST] 5 Rewards",
+    "hyperlinkId": "TEST5RewardChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "TESTAnnouncers": {
+    "name": "[TEST] Announcers Only",
+    "hyperlinkId": "TESTAnnouncers",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "TESTBanners": {
+    "name": "[TEST] Banners Only",
+    "hyperlinkId": "TESTBanners",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "TESTEmoji": {
+    "name": "[TEST] Emoji Only",
+    "hyperlinkId": "TESTEmoji",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "TESTHeroes": {
+    "name": "[TEST] Heroes Only",
+    "hyperlinkId": "TESTHeroes",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "TESTHeroSkins": {
+    "name": "[TEST] Hero Skins Only",
+    "hyperlinkId": "TESTHeroSkins",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "TESTLegendaryChest": {
+    "name": "[TEST] 1 Legendary Item",
+    "hyperlinkId": "TESTLegendaryChest",
+    "rarity": "Legendary",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "TESTMounts": {
+    "name": "[TEST] Mounts Only",
+    "hyperlinkId": "TESTMounts",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "TESTPortraits": {
+    "name": "[TEST] Portraits Only",
+    "hyperlinkId": "TESTPortraits",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "TESTRarePlusChest": {
+    "name": "[TEST] Rare+ Items Only",
+    "hyperlinkId": "TESTRarePlusChest",
+    "rarity": "Rare",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestRare"
+  },
+  "TESTShards": {
+    "name": "[TEST] Shards Only",
+    "hyperlinkId": "TESTShards",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "TESTSprays": {
+    "name": "[TEST] Sprays Only",
+    "hyperlinkId": "TESTSprays",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "TESTStimpacks": {
+    "name": "[TEST] Stimpacks Only",
+    "hyperlinkId": "TESTStimpacks",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "TESTVoiceLines": {
+    "name": "[TEST] Voice Lines Only",
+    "hyperlinkId": "TESTVoiceLines",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "ThrallChest": {
+    "name": "스랄 상자",
+    "hyperlinkId": "ThrallChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "TinkerChest": {
+    "name": "가즈로 상자",
+    "hyperlinkId": "TinkerChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "TracerChest": {
+    "name": "트레이서 상자",
+    "hyperlinkId": "TracerChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "TutorialChest": {
+    "name": "초보자 상자",
+    "hyperlinkId": "TutorialChest",
+    "rarity": "Rare",
+    "maxRerolls": 0,
+    "typeDescription": "LootChestRare"
+  },
+  "TychusChest": {
+    "name": "타이커스 상자",
+    "hyperlinkId": "TychusChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "TyraelChest": {
+    "name": "티리엘 상자",
+    "hyperlinkId": "TyraelChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "TyrandeChest": {
+    "name": "티란데 상자",
+    "hyperlinkId": "TyrandeChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "UtherChest": {
+    "name": "우서 상자",
+    "hyperlinkId": "UtherChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "ValeeraChest": {
+    "name": "발리라 상자",
+    "hyperlinkId": "ValeeraChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "VarianChest": {
+    "name": "바리안 상자",
+    "hyperlinkId": "VarianChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "VeteranChest": {
+    "name": "숙련자 상자",
+    "hyperlinkId": "VeteranChest",
+    "rarity": "Legendary",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "WarcraftReinforcementsChest": {
+    "name": "워크래프트 지원군 상자",
+    "hyperlinkId": "WarcraftReinforcementsChest",
+    "rarity": "Epic",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestEpic"
+  },
+  "WelcomeChest": {
+    "name": "환영 상자",
+    "hyperlinkId": "WelcomeChest",
+    "rarity": "Rare",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestRare",
+    "description": "최소 1개의 영웅이 포함된 고유한 전리품 상자입니다."
+  },
+  "WhitemaneChest": {
+    "name": "화이트메인 상자",
+    "hyperlinkId": "WhitemaneChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "WinterBaseProgressionChest": {
+    "name": "겨울맞이 상자",
+    "hyperlinkId": "WinterBaseProgressionChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "WinterVeilLootChestCommon",
+    "event": "WinterVeil"
+  },
+  "WinterEpicPorogressionChest": {
+    "name": "특급 겨울맞이 상자",
+    "hyperlinkId": "WinterEpicPorogressionChest",
+    "rarity": "Epic",
+    "maxRerolls": 3,
+    "typeDescription": "WinterVeilLootChestEpic",
+    "event": "WinterVeil"
+  },
+  "WinterRareProgressionChest": {
+    "name": "희귀 겨울맞이 상자",
+    "hyperlinkId": "WinterRareProgressionChest",
+    "rarity": "Rare",
+    "maxRerolls": 3,
+    "typeDescription": "WinterVeilLootChestRare",
+    "event": "WinterVeil"
+  },
+  "WitchDoctorChest": {
+    "name": "나지보 상자",
+    "hyperlinkId": "WitchDoctorChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "WizardChest": {
+    "name": "리밍 상자",
+    "hyperlinkId": "WizardChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "YrelChest": {
+    "name": "이렐 상자",
+    "hyperlinkId": "YrelChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "ZagaraChest": {
+    "name": "자가라 상자",
+    "hyperlinkId": "ZagaraChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "ZaryaChest": {
+    "name": "자리야 상자",
+    "hyperlinkId": "ZaryaChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "ZeratulChest": {
+    "name": "제라툴 상자",
+    "hyperlinkId": "ZeratulChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "ZuljinChest": {
+    "name": "줄진 상자",
+    "hyperlinkId": "ZuljinChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  }
+}

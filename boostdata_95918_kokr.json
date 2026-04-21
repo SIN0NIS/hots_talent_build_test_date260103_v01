@@ -1,0 +1,57 @@
+{
+  "2Day": {
+    "name": "2일 부스트",
+    "hyperlinkId": "2DayStimpack",
+    "releaseDate": "2014-03-13"
+  },
+  "2Hour(Test)": {
+    "name": "2시간 부스트 (테스트)",
+    "hyperlinkId": "2HourStimpack(Test)",
+    "releaseDate": "2014-03-13"
+  },
+  "30Day": {
+    "name": "30일 부스트",
+    "hyperlinkId": "30DayStimpack",
+    "releaseDate": "2014-03-13"
+  },
+  "30DayPromo": {
+    "name": "30일 부스트",
+    "hyperlinkId": "30DayStimpackPromo",
+    "releaseDate": "2014-03-13",
+    "event": "LTO"
+  },
+  "360DayStimpack": {
+    "name": "360일 부스트",
+    "hyperlinkId": "360DayStimpack",
+    "releaseDate": "2016-11-22"
+  },
+  "3Day": {
+    "hyperlinkId": "3DayStimpack",
+    "releaseDate": "2014-03-13"
+  },
+  "5Minute(Test)": {
+    "name": "5분 부스트 (테스트)",
+    "hyperlinkId": "5MinuteStimpack(Test)",
+    "releaseDate": "2014-03-13"
+  },
+  "7Day": {
+    "name": "7일 부스트",
+    "hyperlinkId": "7DayStimpack",
+    "releaseDate": "2014-03-13"
+  },
+  "LootChest1Day": {
+    "name": "1일 부스트",
+    "hyperlinkId": "Loot1DayStimpack",
+    "releaseDate": "2014-03-13"
+  },
+  "LootChest3Day": {
+    "name": "3일 부스트",
+    "hyperlinkId": "Loot3DayStimpack",
+    "releaseDate": "2014-03-13"
+  },
+  "LootChest7Day": {
+    "name": "7일 부스트",
+    "hyperlinkId": "Loot7DayStimpack",
+    "releaseDate": "2014-03-13"
+  }
+}
